@@ -1,0 +1,27 @@
+h4 {
+    font-weight: 500;
+    color: gray;
+}
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+.justify-align-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.align-center {
+    display: flex;
+    align-items: center;
+}
+ion-icon {
+    color: gray;
+}
+span {
+    color: gray;
+}
+.sp-between {
+    display: flex;
+    justify-content: space-between;
+}
